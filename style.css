@@ -13,7 +13,7 @@ body {
   font-family: system-ui;
   color: #555;
   background-color: #f7f7f7;
-  background-color: #555;
+  /* background-color: #555; */
   min-height: 100vh;
 
   display: flex;
@@ -105,6 +105,7 @@ body {
   padding: 2rem 5rem;
   border-radius: 0.7rem;
   color: white;
+  margin-top: 5rem;
   background-color: orangered;
   cursor: pointer;
 }
